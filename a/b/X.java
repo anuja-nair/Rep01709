@@ -2,7 +2,7 @@ package a.b;
 
 public class X {
     public void y() {
-        int abc = 10;
+        int abc = 100;
         int cde = abc * 5;
         abc = cde + 7;
     }
